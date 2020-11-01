@@ -1,6 +1,5 @@
 # MEN-server-setup
-Sample setup for MEN (Mongo, Express, &amp; Node) Stack
-
+Sample setup for MEN (Mongo, Express, &amp; Node) Stack Created while experimenting with MERN Stack backend
 ---
 
 # Quick Start 🚀
